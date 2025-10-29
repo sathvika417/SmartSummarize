@@ -26,16 +26,18 @@ AI-powered text summarization tool that helps users quickly understand large amo
 Information overload is a growing challenge. Students, professionals, and researchers spend hours reading lengthy documents. SmartSummarize solves this by providing instant, AI-powered summaries while maintaining context and key information.
 
 ## 🚀 Live Demo
-For the demo(Demo/Live_Demo.mp4)
+For the [Live_Demo](Demo/Live_Demo.mp4)
 
 
 ## 📸 Screenshots
 
-For Sign in(Demo/Sign-in.png)
+## 📸 Screenshots
 
-For Dashboard(Demo/Dashboard.png)
+For [Sign in](Demo/Sign-in.png)
 
-For History(Demo/History.png)
+For [Dashboard](Demo/Dashboard.png)
+
+For [History](Demo/History.png)
 
 ## 💻 How to Use
 
