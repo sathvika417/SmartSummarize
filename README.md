@@ -32,7 +32,9 @@ For the demo(Demo/Live_Demo.mp4)
 ## 📸 Screenshots
 
 For Sign in(Demo/Sign-in.png)
+
 For Dashboard(Demo/Dashboard.png)
+
 For History(Demo/History.png)
 
 ## 💻 How to Use
