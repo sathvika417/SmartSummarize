@@ -72,4 +72,4 @@ MIT License - See LICENSE file for details
 
 ## 🏆 Built For
 
-Chrome AI Hackathon / Devpost
+ Google Chrome Built-in AI Challenge 2025
